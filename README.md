@@ -1,2 +1,4 @@
 # hello-world
-just practice
+
+Hi all!
+this is Alan. this is fucking boring. 
